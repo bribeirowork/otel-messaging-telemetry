@@ -1,1 +1,1 @@
-com.bribeiro.telemetry.messaging.spring.config.MessagingTelemetryAutoConfiguration
+config.spring.com.telemetry.messaging.MessagingTelemetryAutoConfiguration
