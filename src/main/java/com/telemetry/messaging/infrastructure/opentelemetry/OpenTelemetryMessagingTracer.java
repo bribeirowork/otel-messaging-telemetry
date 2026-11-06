@@ -24,7 +24,7 @@ import java.util.Optional;
  */
 public class OpenTelemetryMessagingTracer implements MessagingTracer {
 
-    public static final String INSTRUMENTATION_NAME = "com.bribeiro.telemetry.messaging";
+    public static final String INSTRUMENTATION_NAME = "com.telemetry.messaging";
 
     private final Tracer tracer;
     private final TextMapPropagator propagator;

@@ -567,7 +567,7 @@ telemetry.currentTrace()                 // Optional<TraceIdentity> → traceId 
 ## 9. Arquitetura
 
 ```
-com.bribeiro.telemetry.messaging
+com.telemetry.messaging
 ├── domain                       ← regras e linguagem do domínio (Java puro)
 │   ├── model                    MessageMetadata, Destination, MessagingSystem, MessagingOperation, TraceIdentity
 │   ├── carrier                  MessageCarrier (porta), MessageCarrierFactory, MessageCarrierResolver

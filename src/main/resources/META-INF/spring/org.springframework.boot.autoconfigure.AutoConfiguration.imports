@@ -1,1 +1,1 @@
-config.spring.com.telemetry.messaging.MessagingTelemetryAutoConfiguration
+com.telemetry.messaging.spring.config.MessagingTelemetryAutoConfiguration
